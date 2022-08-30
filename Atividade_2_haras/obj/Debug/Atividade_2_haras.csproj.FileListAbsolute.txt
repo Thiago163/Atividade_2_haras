@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\bin\Debug\Atividade_2_haras.exe.config
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\bin\Debug\Atividade_2_haras.exe
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\bin\Debug\Atividade_2_haras.pdb
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\obj\Debug\Atividade_2_haras.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\obj\Debug\Atividade_2_haras.frmHaras.resources
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\obj\Debug\Atividade_2_haras.Properties.Resources.resources
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\obj\Debug\Atividade_2_haras.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\obj\Debug\Atividade_2_haras.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\obj\Debug\Atividade_2_haras.exe
+C:\Users\aluno\Desktop\Atividade_2_haras\Atividade_2_haras\obj\Debug\Atividade_2_haras.pdb
